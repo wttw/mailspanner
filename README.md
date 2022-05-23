@@ -1,0 +1,2 @@
+# mailspanner
+SMTP client tool.
